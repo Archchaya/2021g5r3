@@ -2,7 +2,7 @@ import React from "react";
 import {Avatar, Button, Grid,Paper, TextField, Typography, Link} from '@material-ui/core';
 import AccountCircleIcon from '@material-ui/icons/AccountCircle';
 import FormControlLabel from '@material-ui/core/FormControlLabel';
-import Checkbox from '@material-ui/core/Checkbox';
+import Checkbox from '@material-ui/core/Checkbox' ;
 
 
 const Login=()=>{
